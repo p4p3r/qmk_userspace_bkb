@@ -1,0 +1,15 @@
+{
+    "keyboard": "bastardkb/charybdis/3x5",
+    "keymap": "p4p3r",
+    "layout": "LAYOUT_charybdis_w",
+    "layers": [
+        ["C_C(MEDIA(PTR(HRM(_BASE))))"],
+        ["C_C(MEDIA(PTR(HRM(_COLE_DH))))"],
+        ["C_C(_FUNC)"],
+        ["C_C(_NAVI)"],
+        ["C_C(_MEDIA)"],
+        ["C_C(_NUMB)"],
+        ["C_C(_POINT)"],
+        ["C_C(_SYMB)"]
+    ]
+}
